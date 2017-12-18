@@ -1,5 +1,7 @@
 # criptocurrency png
-- name: bitcoin.jpeg
+- name: Bitcoin
+  img: bitcoin.jpeg
+  address: 1FtWkAP9KJB91z2mWyJ7tQUmFEYRft7D6E
 
 # - name: alipay.5.jpeg
 
