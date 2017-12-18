@@ -17,6 +17,16 @@ permalink: /donate/
     <div class="row">
         <div class="col-sm-8 col-sm-offset-2">
             <h2 class="text-center m">Cryptocurrencies</h2>
+
+            {% for cripto in site.data.donation.criptocurrency %}
+            <div>
+                <div class="text-center">
+                    <img src="{{ cripto.name | prepend: '/static/assets/img/donate/' | prepend : site.baseurl }}" width="100%">
+                </div>
+            </div>
+            {% endfor %}
+
+            <!--
             <div class="slick">
                 {% for cripto in site.data.donation.criptocurrency %}
                 <div>
@@ -26,6 +36,7 @@ permalink: /donate/
                 </div>
                 {% endfor %}
             </div>
+            -->
         </div>
     </div>
 
