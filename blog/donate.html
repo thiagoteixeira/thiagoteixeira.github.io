@@ -8,8 +8,8 @@ permalink: /donate/
 <div class="row">
     <div class="col-sm-8 col-sm-offset-2 text-center">
         <div class="navy-line"></div>
-        <h1>Donate Jalpc</h1>
-        <h3>If you like this theme and want to support it, just donate it. We can make Jalpc better!</h3>
+        <h1>Donate to Thiago Teixeira Blog</h1>
+        <h3>If you like my blog page and want to support it, just donate it. We can make Thiago Teixeira's blog better!</h3>
     </div>
 </div>
 
@@ -17,18 +17,19 @@ permalink: /donate/
     <div class="row">
         <a href="http://paypal.me/jarrekk" target="_blank" style="height: 35px;display: block;text-align: center;"><h2><i class="fa fa-paypal"></i>Paypal</h2></a>
         <div class="col-sm-8 col-sm-offset-2">
-            <h2 class="text-center m">Alipay</h2>
+            <h2 class="text-center m">Cryptocurrencies</h2>
             <div class="slick">
-                {% for alipay in site.data.donation.alipay %}
+                {% for cripto in site.data.donation.criptocurrency %}
                 <div>
                     <div class="ibox-content">
-                        <img src="{{ alipay.name | prepend: '/static/assets/img/donate/' | prepend : site.baseurl }}" width="100%">
+                        <img src="{{ cripto.name | prepend: '/static/assets/img/donate/' | prepend : site.baseurl }}" width="100%">
                     </div>
                 </div>
                 {% endfor %}
             </div>
         </div>
     </div>
+    <!--
     <div class="row">
         <div class="col-sm-8 col-sm-offset-2">
             <h2 class="text-center m">WeChat Pay</h2>
@@ -71,6 +72,7 @@ permalink: /donate/
         </div>
         {% endfor %}
     </div>
+    -->
 </div>
 
 <!-- slick carousel-->
