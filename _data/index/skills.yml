@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: GitHub, HTML5, Java SE, CSS, Spring Framework, Python, Java EE, Docker, Maven, PHP, Python, Gradle
-percentage: 100, 65, 100, 37, 72, 38, 82, 22, 95, 60, 35, 80
+aspects: GitHub, HTML5, Java SE, CSS, Spring Framework, Python, Java EE, Docker, Maven, PHP, Oracle Database, Gradle
+percentage: 100, 65, 100, 37, 72, 38, 82, 22, 95, 60, 67, 80
