@@ -12,7 +12,7 @@ icon: icon-java
 First, you must go to the following website:
  * [Spring Initializr](https://start.spring.io/)
  
-After, fill in the group and the artifact fields. Example:
+After, fill in the **group** and the **artifact** fields. Example:
  - **Group**: com.mydomain
  - **Artifact**: demo
 
