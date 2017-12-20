@@ -10,13 +10,13 @@ icon: icon-java
 ---
 
 First, you must go to the following website:
- * (https://start.spring.io/)
+ * [Spring Initializr](https://start.spring.io/)
  
 After, fill in the group and the artifact fields. Example:
- - Group: com.mydomain
- - Artifact: demo
+ - **Group**: com.mydomain
+ - **Artifact**: demo
 
-In the 'Search for dependencies' field fill in: 'Web'
+In the **Search for dependencies** field fill in: **Web**
 
 Another fields can be use the default value. 
 
@@ -24,6 +24,6 @@ After you have filled in all the fields, you will have something corresponding t
 
 <img src="{{ site.img_path }}/java/first-steps-springboot/start-spring-io.png" width="75%">
 
-Now, click the 'Generate Project' button
+Now, click the **Generate Project** button
 
  
