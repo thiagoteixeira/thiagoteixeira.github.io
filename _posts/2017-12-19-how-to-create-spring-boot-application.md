@@ -26,4 +26,5 @@ After you have filled in all the fields, you will have something corresponding t
 
 Now, click the **Generate Project** button
 
+it continues...
  
