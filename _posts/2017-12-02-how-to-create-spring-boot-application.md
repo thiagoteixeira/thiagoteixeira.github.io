@@ -28,7 +28,7 @@ Now, click the **Generate Project** button
 
 So, download the ZIP file and unzip it.
 
-Using a text editor ( I recommend [Visual Studio Code] (https://code.visualstudio.com/)), open the demo folder.
+Using a text editor ( I recommend [Visual Studio Code](https://code.visualstudio.com/)), open the demo folder.
 
 Now we are going to create the web controler named HelloWorldController.java:
 <img src="{{ site.img_path }}/java/first-steps-springboot/hello-world-controller-java.png" width="75%">
