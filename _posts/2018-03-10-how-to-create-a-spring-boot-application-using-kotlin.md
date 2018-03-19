@@ -11,7 +11,7 @@ icon: icon-java
 
 A few months ago I wrote an article showing how to create a simple Spring Boot application using Java, you can see it [clicking here](https://thiagoteixeira.github.io/java/2017/12/02/how-to-create-spring-boot-application.html).
 
-Now, I am going to show you, how to create the same application using [Kotlin](https://kotlinlang.org/) and [Gradle](https://gradle.org/) installed.
+Now, I am going to show you, how to create the same application using [Kotlin](https://kotlinlang.org/) and [Gradle](https://gradle.org/).
 
 The requirements are:
  - [Gradle](https://gradle.org/) installed;
