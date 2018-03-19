@@ -68,7 +68,7 @@ After the execution you will see the success message referring to the initializa
 
 So, access http://localhost:8080 in the web browser.
 
-<img src="{{ site.img_path }}/kotlin/how-to-create-spring-boot-with-kotlin-and-gradle/hello-world-browser-access.png" width="75%">
+<img src="{{ site.img_path }}/kotlin/how-to-create-spring-boot-with-kotlin-and-gradle/hello-world-browser-access.png" width="50%">
 
 Finally, your first Spring Boot application with Kotlin and Gradle was created.
 
