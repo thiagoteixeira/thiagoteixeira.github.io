@@ -7,11 +7,13 @@ title : Sitemap
 {% for post in site.posts %}
     <url>
         <loc>{{site.url}}{{ post.url }}</loc>
+		<changefreq>weekly</changefreq>
     </url>
 {% endfor %}
 {% for page in site.pages %}
     <url>
         <loc>{{site.url}}{{ page.url }}</loc>
+		<changefreq>weekly</changefreq>
     </url>
 {% endfor %}
 </urlset>
