@@ -46,7 +46,6 @@ Now we are going to create the web controler file named HelloWorldController.kt 
 Your respective code will be:
 
 ```
-
 package com.example.demo
 
 import org.springframework.web.bind.annotation.GetMapping
@@ -61,7 +60,6 @@ class HelloWorldController {
 }
 
 ```
-
 ---
 
 Now, using the command prompt you can initialize the application using the **gradle bootrun** command using [Gradle](https://gradle.org/).
