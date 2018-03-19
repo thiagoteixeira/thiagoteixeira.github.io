@@ -39,7 +39,7 @@ Using a text editor ( I recommend [Visual Studio Code](https://code.visualstudio
 
 Now we are going to create the web controler file named HelloWorldController.kt at **demo\src\main\kotlin\com\example\demo\** folder:
 
-<img src="{{ site.img_path }}/kotlin/how-to-create-spring-boot-with-kotlin-and-gradle/hello-world-controller-file.png" width="75%">
+<img src="{{ site.img_path }}/kotlin/how-to-create-spring-boot-with-kotlin-and-gradle/hello-world-controller-file.png" width="50%">
 
 Your respective code will be:
 
