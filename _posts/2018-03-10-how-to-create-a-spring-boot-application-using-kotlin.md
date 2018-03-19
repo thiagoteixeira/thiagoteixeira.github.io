@@ -64,6 +64,13 @@ class HelloWorldController {
 
 ---
 
+```
+def say_hello():
+    print("hello world!")
+
+say_hello()   // "hello world!"
+```
+
 Now, using the command prompt you can initialize the application using the **gradle bootrun** command using [Gradle](https://gradle.org/).
 After the execution you will see the success message referring to the initialization from an embedded Apache Tomcat.
 
