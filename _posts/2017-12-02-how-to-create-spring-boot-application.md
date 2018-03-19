@@ -41,6 +41,7 @@ After the execution you will see the success message referring to the initializa
 
 
 So, access http://localhost:8080 in the web browser.
+
 <img src="{{ site.img_path }}/java/first-steps-springboot/hello-world-browser-access.png" width="75%"> 
 
 That was pretty easy :)
