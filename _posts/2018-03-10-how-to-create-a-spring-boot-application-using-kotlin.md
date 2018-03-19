@@ -58,8 +58,8 @@ class HelloWorldController {
     fun index() = "Hello, World!"
 
 }
-
 ```
+
 ---
 
 Now, using the command prompt you can initialize the application using the **gradle bootrun** command using [Gradle](https://gradle.org/).
