@@ -5,7 +5,7 @@ date:   2018-03-10
 desc: "How to Create a Spring Boot Application using Kotlin and Gradle"
 keywords: "Kotlin,Java,Spring,Boot,gh-pages,website,blog,easy"
 categories: [Kotlin]
-tags: [Spring,Boot,Spring Boot]
+tags: [Spring,Boot,Spring Boot,Kotlin]
 icon: icon-java
 ---
 

@@ -5,7 +5,7 @@ date:   2017-12-02
 desc: "How to Create a Spring Boot Application"
 keywords: "Java,Spring,Boot,gh-pages,website,blog,easy"
 categories: [Java]
-tags: [Spring,Boot,Spring Boot]
+tags: [Spring,Boot,Spring Boot,Java,Spring Framework]
 icon: icon-java
 ---
 

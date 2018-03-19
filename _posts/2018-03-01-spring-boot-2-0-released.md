@@ -5,7 +5,7 @@ date:   2018-03-01
 desc: "Spring Boot 2.0 Released"
 keywords: "Java,Spring,Boot,gh-pages,website,blog,easy"
 categories: [Java]
-tags: [Spring,Boot,Spring Boot]
+tags: [Spring,Boot,Spring Boot,Java]
 icon: icon-java
 ---
 
