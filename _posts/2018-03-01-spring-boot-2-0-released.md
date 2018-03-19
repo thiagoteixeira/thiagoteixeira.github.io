@@ -27,7 +27,7 @@ That release include:
  - Quartz scheduler support.
  - Greatly simplified security auto-configuration.
  
-For more details, you can see the * [release notes] (https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.0-Release-Notes).
+For more details, you can see the * [release notes page] (https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.0-Release-Notes).
 
 Reference: https://spring.io/blog/2018/03/01/spring-boot-2-0-goes-ga
 
