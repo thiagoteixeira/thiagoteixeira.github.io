@@ -37,6 +37,8 @@ So, download the ZIP file and unzip it.
 
 Using a text editor ( I recommend [Visual Studio Code](https://code.visualstudio.com/)), open the demo folder.
 
+---
+
 Now we are going to create the web controler file named HelloWorldController.kt at *demo\src\main\kotlin\com\example\demo\* folder:
 
 <img src="{{ site.img_path }}/kotlin/how-to-create-spring-boot-with-kotlin-and-gradle/hello-world-controller-file.png" width="40%">
@@ -57,6 +59,7 @@ class HelloWorldController {
 
 }
 ```
+---
 
 Now, using the command prompt you can initialize the application using the **gradle bootrun** command using [Gradle](https://gradle.org/).
 After the execution you will see the success message referring to the initialization from an embedded Apache Tomcat.
