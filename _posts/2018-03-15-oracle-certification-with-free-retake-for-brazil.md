@@ -4,7 +4,7 @@ title:  "Oracle Certification with Free Retake [only for Brazil]"
 date:   2018-03-15
 desc: "Oracle Certification with Free Retake [only for Brazil]"
 keywords: "Certification,Oracle,IT"
-categories: [Kotlin]
+categories: [Certification]
 tags: [Oracle,Certification]
 icon: icon-java
 ---
