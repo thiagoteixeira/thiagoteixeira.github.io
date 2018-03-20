@@ -15,7 +15,7 @@ Now, I am going to show you, how to create the same application using [Kotlin](h
 
 The requirements are:
  - [Gradle](https://gradle.org/) installed;
- - Text Editor installed, I recommend [Visual Studio Code] (https://code.visualstudio.com/)
+ - Text Editor installed, I recommend [Visual Studio Code](https://code.visualstudio.com/)
  
 
 Now, you must go to the following website:
@@ -39,7 +39,7 @@ Using a text editor ( I recommend [Visual Studio Code](https://code.visualstudio
 
 ---
 
-Now we are going to create the web controler file named HelloWorldController.kt at *demo\src\main\kotlin\com\example\demo\* folder:
+Now we are going to create the web controler file named HelloWorldController.kt at **demo\src\main\kotlin\com\example\demo\\** folder:
 
 <img src="{{ site.img_path }}/kotlin/how-to-create-spring-boot-with-kotlin-and-gradle/hello-world-controller-file.png" width="40%">
 
