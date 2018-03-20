@@ -16,7 +16,7 @@ You can purchase the voucher with a free rekate following the steps below:
  - 3º Take the first attempt of the exam before May 31, 2018.
  - 4º If you do not pass the first try, choose a date before July 15, 2018 to take the same exame free.
  
-For more details you can see the [Oracle University Oficial website](http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=991).
+For more details, you can see the [Oracle University Oficial website](http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=991).
 
 So, good luck in the exame.
 
