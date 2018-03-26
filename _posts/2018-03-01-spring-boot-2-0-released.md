@@ -18,7 +18,7 @@ That release includes:
 
  - A Java 8 baseline, and Java 9 support.
  - Reactive web programming support with Spring WebFlux/WebFlux.fn.
- - Auto-configuration and starter POMs for reactive Spring Data Cassandra, MongoDB, Couchbase, and Redis.
+ - Auto-configuration and starter POMs for reactive Spring Data Cassandra, MongoDB, Couchbase and Redis.
  - Support for embedded Netty.
  - HTTP/2 for Tomcat, Undertow and Jetty.
  - Kotlin support.
