@@ -18,7 +18,7 @@ After, fill in the **group** and the **artifact** fields. Example:
 
 In the **Search for dependencies** field fill in: **Web**
 
-Another fields can be use the default value. 
+The other fields can use the default value. 
 
 After you have filled in all the fields, you will have something corresponding to the image below:
 
@@ -30,11 +30,11 @@ So, download the ZIP file and unzip it.
 
 Using a text editor ( I recommend [Visual Studio Code](https://code.visualstudio.com/)), open the demo folder.
 
-Now we are going to create the web controler named HelloWorldController.java:
+Now we are going to create the web controller named HelloWorldController.java:
 <img src="{{ site.img_path }}/java/first-steps-springboot/hello-world-controller-java.png" width="75%">
 
 Using the command prompt you can initialize the application using the **mvn spring-boot:run** command using [Maven](https://maven.apache.org).
-After the execution you will see the success message referring to the initialization from an embedded Apache Tomcat.
+After the execution, you will see the success message referring to the initialization from an embedded Apache Tomcat.
 
 ** 2017-12-02 12:40:50.915  INFO 7444 --- [           main] com.example.demo.DemoApplication         : Started DemoApplication in 6.207 seconds (JVM running for
  14.739) **
