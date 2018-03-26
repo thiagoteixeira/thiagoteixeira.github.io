@@ -10,7 +10,7 @@ icon: icon-java
 ---
 
 Spring Boot 2.0.0 is now available as 2.0.0-RELEASE from [repo.spring.io](https://repo.spring.io/release/) and [Maven Central](https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.springframework.boot%22).
-You can see it too on the [start.spring.io](https://start.spring.io/) web site:
+You can see it too on the [start.spring.io](https://start.spring.io/) website:
 
 <img src="{{ site.img_path }}/java/spring-boot-2-0-released/spring-initilizr-with-spring-boot-2-0.png" width="75%">
 
