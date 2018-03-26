@@ -9,7 +9,7 @@ tags: [Spring,Boot,Spring Boot,Kotlin]
 icon: icon-java
 ---
 
-A few months ago I wrote an article showing how to create a simple Spring Boot application using Java, you can see it [clicking here](https://thiagoteixeira.github.io/java/2017/12/02/how-to-create-spring-boot-application.html).
+A few months ago I wrote an article showing how to create a simple Spring Boot application using Java, you can see it by [clicking here](https://thiagoteixeira.github.io/java/2017/12/02/how-to-create-spring-boot-application.html).
 
 Now, I am going to show you, how to create the same application using [Kotlin](https://kotlinlang.org/) and [Gradle](https://gradle.org/).
 
@@ -39,7 +39,7 @@ Using a text editor ( I recommend [Visual Studio Code](https://code.visualstudio
 
 ---
 
-We are going to create the web controler file named HelloWorldController.kt at **demo\src\main\kotlin\com\example\demo\\** folder:
+We are going to create the web controller file named HelloWorldController.kt at **demo\src\main\kotlin\com\example\demo\\** folder:
 
 <img src="{{ site.img_path }}/kotlin/how-to-create-spring-boot-with-kotlin-and-gradle/hello-world-controller-file.png" width="40%">
 
@@ -63,7 +63,7 @@ class HelloWorldController {
 ---
 
 Now, using the command prompt you can initialize the application using the **gradle bootrun** command using [Gradle](https://gradle.org/).
-After the execution you will see the success message referring to the initialization from an embedded Apache Tomcat.
+After the execution, you will see the success message referring to the initialization from an embedded Apache Tomcat.
 
 **
 <==========---> 80% EXECUTING [1m 40s]
