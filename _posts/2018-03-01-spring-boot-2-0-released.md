@@ -14,11 +14,11 @@ You can see it too on the [start.spring.io](https://start.spring.io/) web site:
 
 <img src="{{ site.img_path }}/java/spring-boot-2-0-released/spring-initilizr-with-spring-boot-2-0.png" width="75%">
 
-That release include:
+That release includes:
 
  - A Java 8 baseline, and Java 9 support.
  - Reactive web programming support with Spring WebFlux/WebFlux.fn.
- - Auto-configuration and starter POMs for reactive Spring Data Cassandra, MongoDB, Couchbase and Redis.
+ - Auto-configuration and starter POMs for reactive Spring Data Cassandra, MongoDB, Couchbase, and Redis.
  - Support for embedded Netty.
  - HTTP/2 for Tomcat, Undertow and Jetty.
  - Kotlin support.
