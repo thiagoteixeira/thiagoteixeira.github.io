@@ -24,7 +24,7 @@ After you have filled in all the fields, you will have something corresponding t
 
 <img src="{{ site.img_path }}/java/first-steps-springboot/start-spring-io.png" width="75%">
 
-Now, click the **Generate Project** button
+Now, click on the **Generate Project** button
 
 So, download the ZIP file and unzip it.
 

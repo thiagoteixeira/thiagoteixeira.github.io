@@ -31,7 +31,7 @@ The options chosen will be as the image below:
 
 <img src="{{ site.img_path }}/kotlin/how-to-create-spring-boot-with-kotlin-and-gradle/spring-initializr-options-chosen.png" width="75%">
 
-Now, click the **Generate Project** button
+Now, click on the **Generate Project** button
 
 So, download the ZIP file and unzip it.
 
