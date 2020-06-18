@@ -62,7 +62,7 @@ class HelloWorldController {
 
 ---
 
-Now, using the command prompt you can initialize the application using the **gradle bootrun** command using [Gradle](https://gradle.org/).
+Now, using the command prompt you can initialize the application using the command: `gradle bootrun`. It is going to use [Gradle](https://gradle.org/).
 After the execution, you will see the success message referring to the initialization from an embedded Apache Tomcat.
 
 **
