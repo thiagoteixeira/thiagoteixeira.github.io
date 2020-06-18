@@ -19,10 +19,10 @@ social-linkedin: thiagoaugustoteixeira # add your Linkedin handle
 social-email: thiagoteixeiraoficial@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: thiagoteixeira # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-111429347-1 # Google Analytics
 
 # Build Settings
 markdown: kramdown
