@@ -1,70 +1,37 @@
-# Welcome to Jekyll!
+title: Hello, world! I am Thiago Teixeira
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
 
-# Website settings
-title: Thiago Teixeira
-description: Thiago's blog, github pages.
-keywords: Thiago,Java,Thiago Teixeira Java,Linkedin,github,thiagoteixeira,thiago perfil,professor java,desenvolvedor java, java developer, best java developer,blog,blog Java, gh-pages
-baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://thiagoteixeira.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
-# url: http://127.0.0.1:4000
-img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+# Author Settings
+author: Thiago Teixeira # add your name
+author-img: thiago-teixeira.png # add your photo
+about-author: Software Developer who has the following certifications OCPJP, OCEJWCD and OCEJEJD. # add description
+social-twitter: thiagojavabr # add your Twitter handle
+social-facebook: thiagoteixeiraoficial # add your Facebook handle
+social-github: thiagoteixeira # add your Github handle
+social-linkedin: thiagoaugustoteixeira # add your Linkedin handle
+social-email: thiagoteixeiraoficial@gmail.com # add your Email address
 
-# author -- index page "about me" section
-author:  # change following line to your infomation.
-  name: GitHub  # Be used at blog posts' author.
-  first_name: Hub  # Be used at index page about me section.
-  last_name: Git  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-  github_username: thiagoteixeira  # Leave blank if you don't have now
-  linkedin_id: thiagoaugustoteixeira # Leave blank if you don't have now
-  facebook_username: thiagoteixeira  # Leave blank if you don't have now
-  twitter_username: thiago_onixlab  # Leave blank if you don't have now
-  email: thiagoteixeiraoficial@gmail.com  # Leave blank if you don't have now
-  cv: https://www.linkedin.com/in/thiagoaugustoteixeira/  # An online CV can be printed as PDF, leave blank if you don't have now
-  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
-  skill_icon1:
-    - name: icon-apache
-    - name: fa-linux
-  skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
+# Disqus
+discus-identifier: mr-brown # add your discus identifier
 
-# comment
-disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: thiagoteixeira
+# Tracker
+analytics: # Google Analytics
 
-# analytics
-## google analytics
-ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  id: UA-111429347-1
-
-## google optimize
-go:
-  # id:
-
-## growingIO
-gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
-  # id:
-
-## donation
-donation: on  # type 'on'/'off' to choice display donation button at post page or not
-
-## carousels
-index_carousel: on  # index page carousel switch
-blog_carousel: on  # blog page carousel switch
-
-# scss
-sass:
-  style: compressed
-
-# Build settings
-encoding: utf-8
-
-# other settings
-highlighter: rouge
+# Build Settings
 markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
 
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
