@@ -44,7 +44,7 @@ $(function () {
   var m = $("meta[name=baseurl]");
 
   // $.getJSON(m.attr("content") + "/search.json")
-  $.getJSON($("baseurl/search.json"))
+  $.getJSON("/search.json")
     .done(function (data) {
       if (data.code == 0) {
         $("#search-content").typeahead({
