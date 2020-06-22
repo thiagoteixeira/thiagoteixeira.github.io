@@ -1,4 +1,4 @@
-$(function(){
+$(function () {
   var initial = 0;
   var show = true;
 
@@ -37,13 +37,14 @@ $(function(){
     toggleSearch(false);
   });
 
-  $("#search-btn").click(function() {
+  $("#search-btn").click(function () {
     toggleSearch(true);
   });
 
   var m = $("meta[name=baseurl]");
 
-  $.getJSON(m.attr("content") + "/search.json")
+  //$.getJSON(m.attr("content") + "/search.json")
+  $.getJSON("search.json")
     .done(function (data) {
       if (data.code == 0) {
         $("#search-content").typeahead({
@@ -58,6 +59,6 @@ $(function(){
       }
     });
 });
-$(function(){
-    $("pre").css('display','block');
+$(function () {
+  $("pre").css('display', 'block');
 });
