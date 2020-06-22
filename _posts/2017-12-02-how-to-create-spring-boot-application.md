@@ -3,7 +3,7 @@ layout: post
 title: How to Create a Spring Boot Application
 date: 2017-12-02 13:32:20 +0300
 description: How to Create a Spring Boot Application. # Add post description (optional)
-img: spring/spring-boot-20171202.jpg # Add image post (optional)
+img: spring/spring-boot-20171202.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Java,Spring,Boot,blog]
 ---
