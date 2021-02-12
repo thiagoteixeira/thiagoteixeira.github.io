@@ -8,6 +8,7 @@ image: assets/images/spring/spring-boot-20171202.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Java,Spring,Boot,blog]
 categories: [ tutorial ]
+featured: true
 ---
 
 First, you must go to the following website:

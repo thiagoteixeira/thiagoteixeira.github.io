@@ -8,6 +8,7 @@ image: assets/images/spring/spring-boot-and-kotlin-20180310.png # Add image post
 fig-caption: # Add figcaption (optional)
 tags: [Kotlin,Java,Spring,Spring Boot,blog]
 categories: [ tutorial ]
+featured: true
 ---
 
 A few months ago I wrote an article showing how to create a simple Spring Boot application using Java, you can see it by [clicking here](https://thiagoteixeira.github.io/how-to-create-spring-boot-application).

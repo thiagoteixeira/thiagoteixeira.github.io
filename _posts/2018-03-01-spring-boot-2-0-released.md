@@ -8,7 +8,6 @@ image: assets/images/spring/spring-boot-2-0-0-released-20180301.jpeg # Add image
 fig-caption: # Add figcaption (optional)
 tags: [Java,Spring,Boot,blog]
 categories: [ java ]
-featured: true
 ---
 
 Spring Boot 2.0.0 is now available as 2.0.0-RELEASE from [repo.spring.io](https://repo.spring.io/release/) and [Maven Central](https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.springframework.boot%22).
