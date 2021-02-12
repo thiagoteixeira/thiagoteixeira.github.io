@@ -1,11 +1,13 @@
 ---
 layout: post
 title: How to Create a Spring Boot Application using Kotlin and Gradle
+author: thiago
 date: 2018-03-10 15:00:00 +0300
 description: How to Create a Spring Boot Application using Kotlin and Gradle # Add post description (optional)
-img: spring/spring-boot-and-kotlin-20180310.png # Add image post (optional)
+image: assets/images/spring/spring-boot-and-kotlin-20180310.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Kotlin,Java,Spring,Spring Boot,blog]
+categories: [ tutorial ]
 ---
 
 A few months ago I wrote an article showing how to create a simple Spring Boot application using Java, you can see it by [clicking here](https://thiagoteixeira.github.io/how-to-create-spring-boot-application).
@@ -28,7 +30,7 @@ In the **Search for dependencies** field fill in: **Web**
 
 The options chosen will be as the image below:
 
-![Spring Initializr Kotlin option]({{site.baseurl}}/assets/img/kotlin/how-to-create-spring-boot-with-kotlin-and-gradle/spring-initializr-options-chosen.png)
+![Spring Initializr Kotlin option]({{site.baseurl}}/assets/images/kotlin/how-to-create-spring-boot-with-kotlin-and-gradle/spring-initializr-options-chosen.png)
 
 Now, click on the **Generate Project** button
 
@@ -40,7 +42,7 @@ Using a text editor ( I recommend [Visual Studio Code](https://code.visualstudio
 
 We are going to create the web controller file named HelloWorldController.kt at `demo\src\main\kotlin\com\example\demo\\` folder:
 
-![Spring Boot Kotlin Controller Hello World]({{site.baseurl}}/assets/img/kotlin/how-to-create-spring-boot-with-kotlin-and-gradle/hello-world-controller-file.png)
+![Spring Boot Kotlin Controller Hello World]({{site.baseurl}}/assets/images/kotlin/how-to-create-spring-boot-with-kotlin-and-gradle/hello-world-controller-file.png)
 
 
 Your respective code will be:
@@ -72,7 +74,7 @@ After the execution, you will see the success message referring to the initializ
 
 So, access http://localhost:8080 in the web browser.
 
-![Spring Boot Kotlin Controller Hello World in Browser]({{site.baseurl}}/assets/img/kotlin/how-to-create-spring-boot-with-kotlin-and-gradle/hello-world-browser-access.png)
+![Spring Boot Kotlin Controller Hello World in Browser]({{site.baseurl}}/assets/images/kotlin/how-to-create-spring-boot-with-kotlin-and-gradle/hello-world-browser-access.png)
 
 
 Finally, your first Spring Boot application with Kotlin and Gradle was created.

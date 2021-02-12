@@ -1,11 +1,13 @@
 ---
 layout: post
 title: JDK 13 Released
+author: thiago
 date: 2019-09-18 20:35:20 +0300
 description: JDK 13 was Released # Add post description (optional)
-img: java/jdk13/jdk13_logo.jpeg # Add image post (optional)
+image: assets/images/java/jdk13/jdk13_logo.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Java,JDK,blog]
+categories: [ java ]
 ---
 
 JDK 13 is now available.

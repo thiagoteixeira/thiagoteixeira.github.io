@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Oracle Certification with Free Retake [only for Brazil]
+author: thiago
 date: 2018-03-15 16:00:00 +0300
 description: Oracle Certification with Free Retake [only for Brazil] # Add post description (optional)
-img: oracle/oracle-certification-retake-20180315.jpg # Add image post (optional)
+image: assets/images/oracle/oracle-certification-retake-20180315.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Certification,Oracle,Java]
+categories: [ certification ]
 ---
 
 Oracle is granting a free retake for non-approved candidates on the first attempt. 

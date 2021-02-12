@@ -1,17 +1,20 @@
 ---
 layout: post
 title: Spring Boot 2.0 Released
+author: thiago
 date: 2018-03-01 13:32:20 +0300
 description: Spring Boot 2.0 Released # Add post description (optional)
-img: spring/spring-boot-2-0-0-released-20180301.jpeg # Add image post (optional)
+image: assets/images/spring/spring-boot-2-0-0-released-20180301.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Java,Spring,Boot,blog]
+categories: [ java ]
+featured: true
 ---
 
 Spring Boot 2.0.0 is now available as 2.0.0-RELEASE from [repo.spring.io](https://repo.spring.io/release/) and [Maven Central](https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.springframework.boot%22).
 You can see it too on the [start.spring.io](https://start.spring.io/) website:
 
-![Spring Boot 2.0.0 Released!]({{site.baseurl}}/assets/img/java/spring-boot-2-0-released/spring-initilizr-with-spring-boot-2-0.png)
+![Spring Boot 2.0.0 Released!]({{site.baseurl}}/assets/images/java/spring-boot-2-0-released/spring-initilizr-with-spring-boot-2-0.png)
 
 
 That release includes:
