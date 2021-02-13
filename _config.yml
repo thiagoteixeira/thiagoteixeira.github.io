@@ -21,7 +21,7 @@ authors:
     email: thiagoteixeiraoficial@gmail.com
     web: https://thiagoteixeira.com
     twitter: https://twitter.com/teixeira_thi
-    description: "Senior Java Software Engineer"
+    description: "Senior Software Engineer"
 
 # Plugins
 plugins:
@@ -54,7 +54,7 @@ kramdown:
       line_numbers: true
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "enabled"
+adsense: "disabled"
 adsense-data-ad-client: "ca-pub-2641880859963644"
 adsense-data-ad-slot: "1363087678"
 

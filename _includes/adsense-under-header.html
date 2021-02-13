@@ -1,5 +1,6 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Under Header -->
+{% if site.adsense == "enabled" %}
 <ins class="adsbygoogle"
     style="display:block"
     data-ad-client="{{site.adsense-data-ad-client}}"
@@ -9,4 +10,5 @@
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+{% endif %}
 <br/>
