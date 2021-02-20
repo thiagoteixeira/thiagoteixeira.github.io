@@ -8,7 +8,7 @@ url: https://thiagoteixeira.com
 baseurl: /
 google_analytics: 'UA-111429347-1'
 disqus: 'thiagoteixeira'
-mailchimp-list: ''
+mailchimp-list: 'https://thiagoteixeira.us1.list-manage.com/subscribe?u=844893a1048c7b79a094e45dc&id=2bc6f2293c'
 include: ["_pages"]
 permalink: /:title/
 
