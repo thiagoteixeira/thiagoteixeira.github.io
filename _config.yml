@@ -4,7 +4,8 @@ title: "Thiago Teixeira"
 description: "Jekyll template, Medium styled, free for bloggers."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: https://thiagoteixeira.com
+url: https://thiagoteixeira.com
+baseurl: /
 google_analytics: 'UA-111429347-1'
 disqus: 'thiagoteixeira'
 mailchimp-list: ''
